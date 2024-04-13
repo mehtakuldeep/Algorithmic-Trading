@@ -9,6 +9,11 @@ Backtested a Trading Strategy :
       4.  If neither condition is met, hold the position until the expiry time of 3:20 pm and exit all legs of the trade together.
 
 The Results are : 
+
+
 ![Trade_log - Excel 13-04-2024 15_08_54](https://github.com/mehtakuldeep/Algorithmic-Trading/assets/112538022/ac5fb041-7fef-4cab-b2fd-3f8ab5788b8e)
 
+
+Net Profit Per Month per Lot = Grand_Total of Total_pnl * Lot_Size(25)
+The Total Profit for Jan 2019 was : 430*25 = 10,750 Per Lot
 
