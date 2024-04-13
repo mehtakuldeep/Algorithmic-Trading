@@ -1,4 +1,5 @@
 Dataset Link : https://drive.google.com/file/d/1pmWHrNwBPky6brIDBAuElNXAaLt3cp0A/view?pli=1
+
 Backtested a Trading Strategy :
       1.	Sell an ATM straddle at 10:30 am by simultaneously selling both an ATM call option and an ATM put option with the same WEEKLY expiry date and strike price.
       2.	Buy 2% away wings for protection by buying both an out-of-the-money call option and an out-of-the-money put option with strike prices 2% higher and lower than the ATM strike, respectively.
