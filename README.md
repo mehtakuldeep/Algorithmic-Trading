@@ -15,5 +15,7 @@ The Results are :
 
 
 Net Profit Per Month per Lot = Grand_Total of Total_pnl * Lot_Size(25)
+
+
 The Total Profit for Jan 2019 was : 430*25 = 10,750 Per Lot
 
